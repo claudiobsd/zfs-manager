@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.9a
+Name=ZFS Manager
+Exec=kdesu zfs-manager
+TryExec=zfs-manager
+Terminal=false
+Type=Application
+Icon=diskmanager
+Categories=Utility;
+GenericName=Manage ZFS pools
